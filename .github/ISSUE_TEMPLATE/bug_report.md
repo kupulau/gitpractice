@@ -8,22 +8,22 @@ assignees: ''
 ---
 
 ## Describe the bug
-- 
+-
 
 ## To Reproduce
 -
 
 ## Expected behavior
-- 
+-
 
 ## Screnshots
 -
 
 ## Additional context
-- 
+-
 
 ## Possible solution
-- 
+-
 
 ## Your environment
-- 
+-
